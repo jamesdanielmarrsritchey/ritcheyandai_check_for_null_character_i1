@@ -1,0 +1,1 @@
+# ritcheyandai_check_for_null_character_i1
